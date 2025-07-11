@@ -1,0 +1,17 @@
+Qualcomm Sahara / Firehose Client V3.61 (c) B.Kerler 2018-2023.
+main - Using loader prog_firehose_lite.elf ...
+main - Waiting for the device
+main - Device detected 🙂
+sahara - Protocol version: 2, Version supported: 1
+main - Mode detected: sahara
+sahara -
+------------------------
+HWID:              0x001990e100040000 (MSM_ID:0x001990e1,OEM_ID:0x0004,MODEL_ID:0x0000)
+Unknown CPU, please send log as issue to https://github.com/bkerler/edl
+PK_HASH:           0xd741a1a1a10b5c6c923fb67be71b1f78ec8823fad892cee268a2edba804ec1f53dddd70e28b4b46da0a585430305bae2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Serial:            0xf58ed4c6
+
+sahara - Protocol version: 2, Version supported: 1
+sahara - Uploading loader prog_firehose_lite.elf ...
+sahara - 32-Bit mode detected.
+sahara - Firehose mode detected, uploading...
