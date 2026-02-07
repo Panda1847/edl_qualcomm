@@ -1,4 +1,11 @@
-# Qualcomm Sahara / Firehose Attack Client / Diag Tools
+# edl_qualcomm
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/edl_qualcomm)](https://github.com/Panda1847/edl_qualcomm/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/edl_qualcomm)](https://github.com/Panda1847/edl_qualcomm/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/edl_qualcomm)](https://github.com/Panda1847/edl_qualcomm/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/edl_qualcomm)
+
 (c) B. Kerler 2018-2023
 Licensed under GPLv3 license.
 
